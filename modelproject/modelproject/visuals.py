@@ -1,3 +1,6 @@
+import numpy as np
+import pandas as pd
+
 def fig_func(epsilon):
     fig = plt.figure(figsize=(8,8));
     ax = fig.add_subplot(1,1,1);
