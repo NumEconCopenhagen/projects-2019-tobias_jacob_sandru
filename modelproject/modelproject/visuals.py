@@ -4,11 +4,12 @@ from .models import *
 
 
 
-def fig_func(epsilon, optimal_h_list, optimal_h_list_1, net_wage, net_wage_1):
+def labor_supply_fig_func(epsilon, optimal_h_list, optimal_h_list_1, net_wage, net_wage_1, tw_0, tw_1):
+    '''This figure plots the labor supply, given two different tax rates'''
     fig = plt.figure(figsize=(8,8));
     ax = fig.add_subplot(1,1,1);
-    ax.plot(optimal_h_list_1,net_wage_1,lw=2,linestyle='-',color='blue',label=f'{0.2*100} pct. tax',zorder=-1);
-    ax.plot(optimal_h_list,net_wage,lw=2,linestyle='-',color='black',label=f'{0.5*100} pct. tax',zorder=-1);
+    ax.plot(optimal_h_list_1,net_wage_1,lw=2,linestyle='-',color='blue',label=f'{tw_0*100} pct. tax',zorder=-1);
+    ax.plot(optimal_h_list,net_wage,lw=2,linestyle='-',color='black',label=f'{tw_1*100} pct. tax',zorder=-1);
     ax.set_ylim([0,50]);
     ax.set_xlim([0,1]);
     ax.legend(loc='lower right',fontsize=15);
