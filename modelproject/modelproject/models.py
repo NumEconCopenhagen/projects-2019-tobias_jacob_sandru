@@ -25,7 +25,7 @@ def budget_cons_comp(h,u_b,u_a,tw=0.5,w=10,a=2,t0=1):
     return (1-tw)*w*h-t0+a+(u_b-u_a)
 
 #define function for the utility function
-def utility(h,u,epsilon=-0.9):
+def utility_function(h,u,epsilon=-0.9):
     '''The utility function'''
     return u-(1/(1+1/epsilon))*(1-h)**(1+1/epsilon)
 
