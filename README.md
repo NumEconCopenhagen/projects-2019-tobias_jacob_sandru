@@ -1,3 +1,14 @@
+
+# This repository contains:
+	* A data project where we arrange data from Statistics Denmark regarding the projected population in Denmark and include similar statistics from Sweden and Norway
+
+	* A model project wjhere we simulate a labour supply model numerically and analytically. This includes raising the tax on labour income and introducing a progressive tax system.
+
+	* Lastly an exam project where we analyze and evaluate different models. The first is a labour supply model in two periods with human capital accumulation. The next is an AS/AD-mode, where we simulate for a single period shock and stochastic shocks and evaluate and compare to the US economy. In the last part of the exam project we analyze a Edgeworth-alike exchange economy with multiple consumers and three goods.
+
+
+
+
 # Welcome to your NumEconCPH repository
 	# Data Project - Population Growth
 	

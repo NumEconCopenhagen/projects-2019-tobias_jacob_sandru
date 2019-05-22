@@ -1,0 +1,33 @@
+Tobias Ersted, QHC336, exam no.: 16
+
+Data project
+brv - https://github.com/NumEconCopenhagen/projects-2019-brv/issues/2
+chx - https://github.com/NumEconCopenhagen/projects-2019-chx/issues/1	
+
+Model project
+hyggerbare - https://github.com/NumEconCopenhagen/projects-2019-hyggerbare/issues/8
+MSc - https://github.com/NumEconCopenhagen/projects-2019-msc/issues/10
+
+
+
+Jacob Østermann, TPV919, exam no.: 84
+
+Data project
+CR - https://github.com/NumEconCopenhagen/projects-2019-cr/issues/4
+CCL - https://github.com/NumEconCopenhagen/projects-2019-ccl/issues/2	
+
+Model project
+hyggerbare - https://github.com/NumEconCopenhagen/projects-2019-hyggerbare/issues/7
+SB - https://github.com/NumEconCopenhagen/projects-2019-sb/issues/5
+
+
+
+Sandru Surendran, GQS853, exam no.: 112
+
+Data project
+vem - https://github.com/NumEconCopenhagen/projects-2019-vem/issues/1
+pytonen	- https://github.com/NumEconCopenhagen/projects-2019-pytonen/issues/3
+
+Model project
+Peter Larsens Kaffe m. Havre - https://github.com/NumEconCopenhagen/projects-2019-peter-larsens-kaffe-m-havre/issues/4
+BCG - https://github.com/NumEconCopenhagen/projects-2019-bcg/issues/8
