@@ -16,7 +16,27 @@ from IPython import display
 #-------------- Functions for part 1 ---------------
 
 def maximfigure(hvec,lvec,cvec,vvec,per):
-    
+    '''
+    This function prints three plots. 1) is the utility in a given period as a function of human capital, 2) is labour supply in a given period as a function of human capital and 3) is a plot of consumption in a given period as a function of human capital
+
+    Parameters
+    ----------
+    hvec : array
+        Vector of human capital in equilibriums
+    lvec : array
+        Vector of labour supply in equilibriums
+    cvec : array
+        Vector of consumption in equilibriums
+    vvec : array
+        Vector of utility in equilibriums
+    per : float
+        Number indicating the period
+        
+    Returns
+    -------
+    Three plots: Utility, labour supply and consumption as a function of human capital
+
+    '''
     if per==1:
         hlab='$h_1$'
         clab='$c_1$'
