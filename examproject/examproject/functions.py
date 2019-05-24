@@ -193,9 +193,9 @@ def solve_period_2(w,rho,b,gamma,h_vec):
     v2_vec : array
         List of utility in equilibrium
     l2_vec : array
-        List of lbaour in equilibrium
+        List of labour in equilibrium
     c2_vec : array
-        List of lbaour in equilibrium
+        List of consumption in equilibrium
     
     '''
     # Defining grids
@@ -259,9 +259,9 @@ def solve_period_1(rho,beta,Delta,b,w,gamma,v2_interp,h_vec,accum):
     v1_vec : array
         List of utility in equilibrium
     l1_vec : array
-        List of lbaour in equilibrium
+        List of labour in equilibrium
     c1_vec : array
-        List of lbaour in equilibrium
+        List of consumption in equilibrium
     
     '''
     
@@ -328,9 +328,9 @@ def solve(w,rho,b,gamma,beta,Delta,h_vec,accum=True):
     v1_vec : array
         List of utility in equilibrium
     l1_vec : array
-        List of lbaour in equilibrium
+        List of labour in equilibrium
     c1_vec : array
-        List of lbaour in equilibrium
+        List of consumption in equilibrium
     
     '''
     #Solving for period 2 first
